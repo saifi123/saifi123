@@ -94,3 +94,52 @@ To become a skilled AI/ML Engineer and build production-ready intelligent system
 ## 🤝 Connect with Me  
 - 💼 LinkedIn: (https://www.linkedin.com/in/m-saifullah-saeed-4b802a1b1/)  
 - 📧 Email: (saifullah9020@gmail.com)  
+
+## 🏆 Featured Projects  
+
+### 🤖 AI-Powered LLM Chat Application  
+`Status: In Progress` | `LLM` `React` `TypeScript`  
+
+- 💬 Built an intelligent chatbot using Large Language Models  
+- 🔗 Integrated frontend (React + TypeScript) with AI backend  
+- ⚡ Real-time responses with optimized API handling  
+- 🧠 Context-aware conversations with prompt engineering  
+
+*Tech Stack: React, TypeScript, OpenAI API, Node.js*  
+
+---
+
+### 🔐 Verify Email System (Frontend)  
+`Status: Completed` | `Frontend` `React`  
+
+- ✉️ Designed and developed a modern email verification UI  
+- 🎨 Clean and responsive interface with user-friendly experience  
+- 🔄 Integrated API handling for verification flow  
+- ⚡ Optimized performance and UI interactions  
+
+*Tech Stack: React, TypeScript, Vite*  
+
+---
+
+### 📊 Machine Learning Prediction System  
+`Status: In Progress` | `ML` `Python`  
+
+- 🧠 Built ML models for prediction and data analysis  
+- 📊 Data preprocessing, feature engineering, and model training  
+- 📈 Visualization of insights using Python libraries  
+- ⚙️ Experimenting with multiple ML algorithms  
+
+*Tech Stack: Python, Pandas, Scikit-learn, Matplotlib*  
+
+---
+
+### 🌐 AI + Frontend Integration Project  
+`Status: Planned` | `AI` `Full Stack`  
+
+- 🤖 Integrating LLMs into real-world web applications  
+- 💻 Frontend with React + TypeScript (Vite)  
+- 🔗 Backend APIs for AI processing  
+- ☁️ Future deployment using AWS  
+
+*Tech Stack: React, TypeScript, Node.js, LLM APIs, AWS*  
+
