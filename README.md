@@ -92,5 +92,5 @@ To become a skilled AI/ML Engineer and build production-ready intelligent system
 ---
 
 ## 🤝 Connect with Me  
-- 💼 LinkedIn: (add your link)  
-- 📧 Email: (add your email)  
+- 💼 LinkedIn: (https://www.linkedin.com/in/m-saifullah-saeed-4b802a1b1/)  
+- 📧 Email: (saifullah9020@gmail.com)  
