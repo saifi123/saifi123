@@ -72,14 +72,6 @@ I am a passionate AI/ML Engineer focused on building intelligent, scalable, and 
 - 🌐 Modern Frontend Web Apps  
 - 📊 Machine Learning Projects  
 
----
-
-## 📂 Featured Projects  
-- 🔐 Verify Email Page (Frontend Project)  
-- 🎨 Digital Card Designs  
-- 🤖 AI/LLM Based Applications (Coming Soon)  
-
----
 
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saifi123&show_icons=true&theme=default)
@@ -96,6 +88,17 @@ To become a skilled AI/ML Engineer and build production-ready intelligent system
 - 📧 Email: (saifullah9020@gmail.com)  
 
 ## 🏆 Featured Projects  
+
+### 🤖 TDF Robotics Software Project  
+`Status: Active` | `ROS2` `C++` `Python`  
+
+- 🤖 Developing modular robotics software for system integration  
+- 🔧 Working with ROS/ROS2 for communication between components  
+- 🐧 Using Linux/Ubuntu environment with CMake build system  
+- 🔄 Implementing Git workflows and Docker for development  
+- ⚡ Writing Bash scripts for automation and deployment  
+
+*Tech Stack: Python, C++, ROS2, CMake, Docker, Git, Linux/Ubuntu* 
 
 ### 🤖 AI-Powered LLM Chat Application  
 `Status: In Progress` | `LLM` `React` `TypeScript`  
