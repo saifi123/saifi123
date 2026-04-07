@@ -6,7 +6,7 @@
 
 ## 🧠 About Me  
 
-🎓 MS Artificial Intelligence Student | BS Computer Science (Fast University Islamabad)  
+🎓 MS Artificial Intelligence Student | BS Computer Science (FAST University Islamabad)  
 
 I am a passionate AI/ML Engineer focused on building intelligent, scalable, and real-world applications by combining modern AI technologies with software engineering practices.  
 
@@ -32,25 +32,38 @@ I am a passionate AI/ML Engineer focused on building intelligent, scalable, and 
 
 ---
 
-## ⚡ Tech Stack  
+## 🛠️ Technology Stack  
 
-### 🧠 AI/ML  
-- Python  
-- Machine Learning  
-- LLMs (Large Language Models)  
+### 🐍 Python & Data Science  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
 
-### 💻 Frontend  
-- React.js  
-- TypeScript  
-- Vite  
+---
 
-### ☁️ Cloud & DevOps  
-- AWS (Learning)  
-- CI/CD (Learning)  
+### 📊 Data Analysis & Visualization  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-2E8B57?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi)
 
-### 🔧 Tools  
-- Git  
-- GitHub  
+---
+
+### 🌐 Frontend Development  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+
+---
+
+### ☁️ DevOps & Cloud  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 
 ---
 
