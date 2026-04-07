@@ -5,10 +5,30 @@
 ---
 
 ## 🧠 About Me  
-🎓 MS Artificial Intelligence student  
-🤖 Building AI-powered applications using LLMs  
-💻 Frontend development with React + TypeScript (Vite)  
-☁️ Learning AWS & DevOps  
+
+🎓 MS Artificial Intelligence Student | BS Computer Science (Fast University Islamabad)  
+
+I am a passionate AI/ML Engineer focused on building intelligent, scalable, and real-world applications by combining modern AI technologies with software engineering practices.  
+
+💡 My expertise includes:  
+
+- 🤖 AI/ML Engineer — Designing and developing intelligent systems using Machine Learning and LLMs  
+- 🧠 LLM Applications Builder — Creating AI-powered apps (chatbots, automation tools)  
+- 💻 Frontend Developer — Building modern UIs using React.js + TypeScript (Vite)  
+- 🐍 Python Developer — Strong foundation in data science, analytics, and automation  
+- 🔗 AI Integration Specialist — Integrating AI solutions into real-world applications  
+- 📊 Data Analytics — Turning complex data into actionable insights  
+- ⚙️ DevOps & Cloud (Learning) — AWS, CI/CD, deployment workflows  
+
+---
+
+## 🌟 Current Focus  
+
+- 🤖 Building AI-powered applications using LLMs  
+- 💻 Developing modern frontend applications with React + TypeScript  
+- 📊 Creating end-to-end Machine Learning projects  
+- ☁️ Learning AWS for cloud-based deployment  
+- 🚀 Exploring DevOps practices (CI/CD, automation, scalability)  
 
 ---
 
