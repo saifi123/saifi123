@@ -78,6 +78,14 @@ I am a passionate AI/ML Engineer focused on building intelligent, scalable, and 
 
 ---
 
+## 📈 My GitHub Activity  
+
+![Saifullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saifi123&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saifi123&theme=tokyonight)
+
+---
+
 ## 🎯 Goal  
 To become a skilled AI/ML Engineer and build production-ready intelligent systems.  
 
